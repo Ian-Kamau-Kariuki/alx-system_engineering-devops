@@ -1,2 +1,1 @@
-These are basic shell 
-commands
+This repo contains basic shell commands
